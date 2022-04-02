@@ -5,9 +5,13 @@ The work on parser is almost done. Running on local machine is fairly trivial.
 ## Steps
 
 1. Clone the repository.
-2. Run the following command.
 
+```bash
+git clone https://github.com/regmicmahesh/small-lang
 ```
+3. Run the following command.
+
+```bash
 go run .
 ```
 
